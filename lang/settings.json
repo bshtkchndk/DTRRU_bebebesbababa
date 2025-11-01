@@ -9,5 +9,11 @@
     "translator_mode": true,
     "line_height_factor": 1,
     "files_url": "https://github.com/bshtkchndk/DTRRU_bebebesbababa/lang/",
-    "datas_url": []
+    "datas_url": [
+        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_menu.win",
+        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch1.win",
+        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch2.win",
+        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch3.win",
+        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch4.win"
+    ]
 }
