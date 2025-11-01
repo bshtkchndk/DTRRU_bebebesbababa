@@ -1,10 +1,4 @@
-{
-    "0.1.1": {
-        "description": "placeholder",
-        "files": []
-    },
-    "0.1.0": {
-        "description": "placeholder",
-        "files": []
-    }
+"0.1.0": {
+	"description": "Проверка работы функций обновлений",
+	"name": "Связь",
 }
