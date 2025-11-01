@@ -8,7 +8,7 @@
     "enable_translated_songs_switch": true,
     "translator_mode": true,
     "line_height_factor": 1,
-    "files_url": "https://github.com/bshtkchndk/DTRRU_bebebesbababa/lang/",
+    "files_url": "https://raw.githubusercontent.com/bshtkchndk/DTRRU_bebebesbababa/refs/heads/main/",
     "datas_url": [
         "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_menu.win",
         "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch1.win",
