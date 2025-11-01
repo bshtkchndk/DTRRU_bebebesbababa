@@ -1,19 +1,13 @@
 {
     "name": "Русский",
     "lang_code": "ru",
-    "description": "Just base english",
+    "description": "Перевод от Бебебес Бабаба",
     "link": "",
     "monospace_fonts": true,
     "special_mode": true,
-    "enable_translated_songs_switch": true,
+    "enable_translated_songs_switch": false,
     "translator_mode": true,
     "line_height_factor": 1,
-    "files_url": "https://raw.githubusercontent.com/bshtkchndk/DTRRU_bebebesbababa/refs/heads/main/",
-    "datas_url": [
-        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_menu.win",
-        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch1.win",
-        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch2.win",
-        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch3.win",
-        "https://github.com/Lazy-Desman/DeltranslatePatch/releases/download/latest/data_ch4.win"
-    ]
+    "files_url": "",
+    "datas_url": ""
 }
