@@ -1,15 +1,11 @@
 {
-    "1.3.0": {
-        "description": "- Beeeebeebeeebs.",
-        "files": []
-    },
-	"1.2.0": {
-        "description": "- Changes in menu for new loading thing.",
-        "files": []
-    },
-    "1.1.0": {
+	"1.1.0": {
         "description": "- More updates.",
-        "files": []
+        "files": [
+        	"chapter1/strings.json",
+        	"settings.json", 
+			"changes.json"
+        ]
     },
     "1.0.1": {
         "description": "- Some updates.",
